@@ -9,7 +9,7 @@
     <header style="background-color:white">
         <h1 style="text-align:left; font-size:50px; color: black;">
             <img src="https://yt3.googleusercontent.com/l07DOcua6sraLmgtso9KEPUzEr0jktvqMYjek2R3ozKemzqdQ0rhfpRrbGx9MU0pcW9VJNmR9mQ=s160-c-k-c0x00ffffff-no-rj" width="100" height="100">
-            <a href="indexhome.html" style="color: black;">COMP_MAN</a>
+            <a href="index.html" style="color: black;">COMP_MAN</a>
                 <div style="text-align: right;">
             <a href="main"  style="color: rgb(0, 0, 0)">
                 основна частина
