@@ -1,0 +1,50 @@
+body {
+    background-color: #CFD7C7;
+    font-family:Montserrat;
+    color: #0B2027;
+}
+header, main, footer {
+    border: 0px;
+    border-radius: 15px;
+}
+header, main, footer {
+    margin: 20px;
+    background-color: #F6F1D1;
+    padding: 10px;
+}
+a {
+    color: #0B2027;
+    text-decoration: none;
+}
+header img {
+    border-radius: 15px;
+}
+header h1 {
+    text-align: left;
+    font-size: 50px;
+}
+footer img {
+    width: 35px;
+    height: 35px;
+}
+main h1 {
+    font-size: 45px;
+}
+main {
+    font-size:16px;
+}
+footer {
+    font-size: 15px;
+}
+main h1 {
+    margin: 20px;
+}
+main p {
+    margin: 20px;
+}
+header h1 {
+    margin: 20px;
+}
+footer p {
+    margin: 20px;
+}
