@@ -59,7 +59,7 @@ main img {
 transform: scale(1.5);
 }
 .comp {
-    transition: 0.25s
+    transition: 0.25s;
 }
 .oip_voik:hover {
 transform: scale(2);
@@ -71,7 +71,7 @@ transition: 0.3s;
 border-radius: 15px;
 }
 .posul {
-    transition: 0.3s   
+    transition: 0.3s;   
 }
 .posul:hover {
     color: blue;
