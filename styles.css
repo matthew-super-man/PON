@@ -11,7 +11,7 @@ header, main, footer {
     margin: 20px;
     background-color: #ffff;
     padding: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 a {
     color: #0B2027;
@@ -53,4 +53,17 @@ footer p {
 main img {
     height: 100px;
     width: 100px;
+}
+.comp:hover {
+color: blue;
+transform: scale(1.5);
+}
+.comp {
+    transition: 0.25s
+}
+.oip_voik:hover {
+    transform: scale(2);
+}
+.oip_voik{
+    transition: 0.25s;
 }
