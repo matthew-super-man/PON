@@ -64,6 +64,7 @@ transform: scale(1.5);
 .oip_voik:hover {
 transform: scale(2);
 box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3);
+border-radius: 15px;    
 }
 .oip_voik{
 transition: 0.3s;
